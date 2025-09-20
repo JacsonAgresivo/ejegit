@@ -1,4 +1,11 @@
 # ejegit
 
-jose solano;
-antonio valbuena
+
+Antonio
+valbuena
+Molina
+Jose
+Manuel
+solano
+mendoza
+
