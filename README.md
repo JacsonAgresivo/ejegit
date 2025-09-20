@@ -1,4 +1,6 @@
 # ejegit
 
-jose
-valbuena
+Jose
+Manuel
+solano
+mendoza
