@@ -1,4 +1,4 @@
 # ejegit
 
-jose
-valbuena
+jose solano;
+antonio valbuena
